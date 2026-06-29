@@ -170,7 +170,6 @@ export default function Hero() {
           transition={{ delay: 0.6 }}
           className="flex items-center justify-center gap-2 mb-6 h-10"
         >
-          <span className="text-2xl md:text-3xl text-gray-400 font-light">I build</span>
           <span className="text-2xl md:text-3xl font-semibold text-white typing-cursor">
             {typeText}
           </span>

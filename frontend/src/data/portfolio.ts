@@ -6,8 +6,8 @@ export const personalInfo = {
   tagline: "Crafting digital experiences that matter",
   location: "Pune, Maharashtra, India",
   email: "sinhaayush20010310@gmail.com",
-  phone: "+91 XXXXXXXXXX",
-  github: "https://github.com/Ayu781",
+  phone: "+91 XXXXXXXXXX",₹
+  github: "https://github.com/sinhaayush20010310-commits",
   linkedin: "https://linkedin.com/in/ayushsinha",
   resumeUrl: "/resume.pdf",
   avatar: "/avatar.jpg",
@@ -124,7 +124,7 @@ export const projects = [
     image: "/projects/pritam-medical.png",
     images: ["/projects/pritam-1.png", "/projects/pritam-2.png"],
     liveUrl: "https://pritampharmacy.vercel.app",
-    githubUrl: "https://github.com/Ayu781",
+    githubUrl: "https://github.com/sinhaayush20010310-commits",
     featured: true,
     category: "E-Commerce",
     tech: ["Next.js", "Tailwind CSS", "React", "Vercel", "MongoDB"],
@@ -148,7 +148,7 @@ export const projects = [
     image: "/projects/iot-dashboard.png",
     images: ["/projects/iot-1.png"],
     liveUrl: "#",
-    githubUrl: "https://github.com/Ayu781",
+    githubUrl: "https://github.com/sinhaayush20010310-commits",
     featured: true,
     category: "Dashboard",
     tech: ["React", "Node.js", "Socket.io", "Chart.js", "MongoDB"],
@@ -172,7 +172,7 @@ export const projects = [
     image: "/projects/weather-app.png",
     images: ["/projects/weather-1.png"],
     liveUrl: "#",
-    githubUrl: "https://github.com/Ayu781",
+    githubUrl: "https://github.com/sinhaayush20010310-commits",
     featured: false,
     category: "Web App",
     tech: ["React", "OpenWeather API", "Tailwind CSS", "Framer Motion"],
@@ -241,7 +241,7 @@ export const testimonials = [
 ];
 
 export const socialLinks = {
-  github: "https://github.com/Ayu781",
+  github: "https://github.com/sinhaayush20010310-commits",
   linkedin: "https://www.linkedin.com/in/ayush-sinha781/",
   twitter: "#",
   email: "sinhaayush20010310@gmail.com",

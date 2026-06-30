@@ -89,7 +89,7 @@ export default function Navbar() {
             {/* CTA + Mobile */}
             <div className="flex items-center gap-3">
               <motion.a
-                href="/resume.pdf"
+                href="/Resume_Ayush_Sinha__.pdf"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
@@ -149,7 +149,7 @@ export default function Navbar() {
                 </button>
               ))}
               <a
-                href="/resume.pdf"
+                href="/Resume_Ayush_Sinha__.pdf"
                 download
                 className="mt-2 btn-primary text-center text-sm"
               >

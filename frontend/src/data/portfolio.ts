@@ -9,7 +9,7 @@ export const personalInfo = {
   phone: "+91 XXXXXXXXXX",
   github: "https://github.com/sinhaayush20010310-commits",
   linkedin: "https://linkedin.com/in/ayushsinha",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/Resume_Ayush_Sinha__.pdf",
   avatar: "/avatar.jpg",
   bio: "I'm a passionate full-stack developer who loves building scalable, beautiful web applications. With expertise in React, Node.js, and modern JavaScript, I transform complex ideas into elegant digital solutions.",
   bio2: "Currently freelancing in AI code evaluation at Outlier while actively seeking full-time opportunities where I can contribute to impactful products.",

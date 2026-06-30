@@ -9,7 +9,7 @@ const commands = [
   { label: 'Go to Experience', action: () => document.getElementById('experience')?.scrollIntoView({ behavior: 'smooth' }), icon: '💼', shortcut: 'E' },
   { label: 'Go to Projects', action: () => document.getElementById('projects')?.scrollIntoView({ behavior: 'smooth' }), icon: '🚀', shortcut: 'P' },
   { label: 'Go to Contact', action: () => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' }), icon: '📧', shortcut: 'C' },
-  { label: 'Download Resume', action: () => window.open('/resume.pdf'), icon: '📄', shortcut: 'R' },
+  { label: 'Download Resume', action: () => window.open('/Resume_Ayush_Sinha__.pdf'), icon: '📄', shortcut: 'R' },
   { label: 'Open GitHub', action: () => window.open('https://github.com/ayushsinha', '_blank'), icon: '🐙', shortcut: '' },
   { label: 'Open LinkedIn', action: () => window.open('https://linkedin.com/in/ayushsinha', '_blank'), icon: '💼', shortcut: '' },
 ];

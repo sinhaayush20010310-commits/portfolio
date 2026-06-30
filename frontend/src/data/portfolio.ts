@@ -6,7 +6,7 @@ export const personalInfo = {
   tagline: "Crafting digital experiences that matter",
   location: "Pune, Maharashtra, India",
   email: "sinhaayush20010310@gmail.com",
-  phone: "+91 XXXXXXXXXX",₹
+  phone: "+91 XXXXXXXXXX",
   github: "https://github.com/sinhaayush20010310-commits",
   linkedin: "https://linkedin.com/in/ayushsinha",
   resumeUrl: "/resume.pdf",
